@@ -17,5 +17,5 @@ It implements a simple **client-server architecture** where a client sends a req
 
 ## Testing
 
-Test ![test](./img/test.png)
- test result ![result](./result.png)
+Test ![test](img/test.png)
+ test result ![result](img//result.png)

@@ -1,0 +1,23 @@
+{
+  "name": "grpc-tp",
+  "version": "1.0.0",
+  "description": "initialisation au grpc",
+  "keywords": [
+    "grpc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "grpc-tp"
+  },
+  "license": "ISC",
+  "author": "eya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.14.3",
+    "@grpc/proto-loader": "^0.8.0"
+  }
+}
